@@ -47,6 +47,4 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 - DictionaryAPI: [https://dictionaryapi.dev/](https://dictionaryapi.dev/)
 - Font Awesome: [https://fontawesome.com/](https://fontawesome.com/)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
